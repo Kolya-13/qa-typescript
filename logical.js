@@ -31,4 +31,4 @@ console.log("empty === undefined:", empty === undefined);
 
 
 console.log("(num > 5 && str === '10'):", (num > 5 && str === "10")); 
-console.log("(num < 5 || isActive === false):", (num < 5 || isActive === false))
+console.log("(num < 5 || isActive === false):", (num < 5 || isActive === false));
