@@ -9,4 +9,4 @@ console.log(a)
 
 let c = a + b;
 
-console.log(c)
+console.log(c);
