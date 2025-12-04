@@ -6,7 +6,7 @@ abstract class Transport {
         this.model = model;
     }
 
-    public abstract move(): void; // поліморфізм
+    public abstract move(): void; 
     public abstract getInfo(): string;
 
     protected logStart(): void {
